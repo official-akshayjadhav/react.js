@@ -1,2 +1,2 @@
-# react
-playing with React 
+# react.js
+snippets and modules of react.js
