@@ -7,3 +7,9 @@ sr. no. | Title | Link | Type | Status
 3 | Js & React.js crash course (code with mosh) | [click here](https://www.youtube.com/watch?v=Ke90Tje7VS0&list=PLYtZZ-GGdKwcWKyQVkGtpCmDTGn4pqG2N) | `video` | :o:
 4 | React.js full course (freeCodeCamp) | [click here](https://www.youtube.com/watch?v=DLX62G4lc44&t=1s) | `video` | :o:
 5 | React tutorial for beginners (devEd) | [click here](https://www.youtube.com/watch?v=dGcsHMXbSOA&t=792s) | `video` | :heavy_check_mark:
+
+### React redux tutorial
+
+sr. no. | Title | Link | Type | Status
+------- | ----- | ---- | ---- | ------
+2 | React redux for beginners (devEd) | [click here](https://www.youtube.com/watch?v=CVpUuw9XSjY) | `video` | :heavy_check_mark:
