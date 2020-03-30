@@ -12,4 +12,4 @@ sr. no. | Title | Link | Type | Status
 
 sr. no. | Title | Link | Type | Status
 ------- | ----- | ---- | ---- | ------
-2 | React redux for beginners (devEd) | [click here](https://www.youtube.com/watch?v=CVpUuw9XSjY) | `video` | :heavy_check_mark:
+1 | React redux for beginners (devEd) | [click here](https://www.youtube.com/watch?v=CVpUuw9XSjY) | `video` | :heavy_check_mark:
