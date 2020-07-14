@@ -1,4 +1,4 @@
-### React Tutorials
+### React.js tutorials
 
 sr. no. | Title | Link | Type | Status
 ------- | ----- | ---- | ---- | ------
